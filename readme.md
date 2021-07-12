@@ -1,5 +1,5 @@
 # Glassmorphism Credit Card  
-This objective of this project is to practice both HTML & CSS as well as the glassmorphism trend. 
+The objective of this project is to practice both HTML & CSS as well as the glassmorphism trend. 
 
 (I tried to copy this [original image](https://i.ytimg.com/vi/uRVnX0k593E/maxresdefault.jpg))
 
