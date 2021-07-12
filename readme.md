@@ -5,7 +5,7 @@ This objective of this project is to practice both HTML & CSS as well as the gla
 
 
 # Result
-[image]()
+[image](https://github.com/AltoSolid/credit-card__glasmorphism/blob/main/Img/result.png)
 
 
 # Interesting resources to see
