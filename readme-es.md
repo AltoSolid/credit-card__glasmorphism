@@ -5,7 +5,7 @@ El objetivo de este pequeño proyecto es practicar tanto HTML y CSS como tambié
 
 
 # Resultado
-[image](https://github.com/AltoSolid/credit-card__glasmorphism/blob/main/Img/result.png)
+![image](https://github.com/AltoSolid/credit-card__glasmorphism/blob/main/Img/result.png)
 
 
 # Recursos interesantes para ver
