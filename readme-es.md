@@ -3,6 +3,10 @@ El objetivo de este pequeño proyecto es practicar tanto HTML y CSS como tambié
 
 (Intenté copiar esta [imagen original](https://i.ytimg.com/vi/uRVnX0k593E/maxresdefault.jpg))
 
+# Versión idiomas readme
+[English version](https://github.com/AltoSolid/credit-card__glasmorphism)
+
+[한국어 버전](https://github.com/AltoSolid/credit-card__glasmorphism/blob/main/readme-ko.md)
 
 # Resultado
 ![image](https://github.com/AltoSolid/credit-card__glasmorphism/blob/main/Img/result.png)
